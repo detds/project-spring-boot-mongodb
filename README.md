@@ -1,4 +1,5 @@
 # MongoDB Project with Spring Boot
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellowgreen.svg)](https://github.com/detds/project-spring-boot-mongodb/blob/main/LICENSE)
 
 A simple **backend** system where we can **create**, **read**, **update** or **delete** (CRUD) users who have posts and respective comments on their posts. It also contains a **search method** to find posts that contain a certain string anywhere (title, body or comments) and within a certain date range.
 
